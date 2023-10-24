@@ -1,0 +1,7 @@
+/*bs has built in colors. here is where we change the colors and fonts so it is set for the pages*/
+:root {
+   --primary-color: ;
+   --primary-color-highlight: ;
+   --bs-body-bg: ;
+   font-family: 'Monoton', sans-serif;
+}
