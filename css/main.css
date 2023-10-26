@@ -1,7 +1,23 @@
 /*bs has built in colors. here is where we change the colors and fonts so it is set for the pages*/
 :root {
-   --primary-color: ;
+   --primary-color:white ;
    --primary-color-highlight: ;
    --bs-body-bg: ;
    font-family: 'Monoton', sans-serif;
+}
+.head h1 {
+    font-family: 'Monoton';
+    color: whitesmoke; /*temporary color*/
+    font-size: 80px;
+    
+} 
+/*from indexlanding page*/
+.words-title {
+    font-size-adjust: inherit;
+    font-size: 2.6rem;
+    padding: 30px;
+}
+.paragraph {
+    font-style: normal;
+    font-size: large;
 }
