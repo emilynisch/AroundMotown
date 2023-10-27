@@ -16,9 +16,12 @@
     font-size-adjust: inherit;
     font-size: 2.6rem;
     padding: 30px;
-	color: #091834
 }
 .paragraph {
     font-style: normal;
     font-size: large;
+}
+
+body {
+background-color: lightblue;
 }
