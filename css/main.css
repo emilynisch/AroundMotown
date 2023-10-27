@@ -2,7 +2,7 @@
 :root {
    --primary-color:white;
    --primary-color-highlight: ;
-   --bs-body-bg: ;
+   --bs-body-bg: lightblue;
    font-family: 'Monoton', sans-serif;
 }
 .head h1 {
@@ -20,7 +20,6 @@
 .paragraph {
     font-style: normal;
     font-size: large;
-	background-color: lightblue;
 }
 }
 
