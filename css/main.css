@@ -2,7 +2,7 @@
 :root {
    --primary-color:white;
    --primary-color-highlight: ;
-   --bs-body-bg: lightblue;
+   --bs-body-bg: #E9D7A7;
    font-family: 'Monoton', sans-serif;
 }
 .head h1 {
