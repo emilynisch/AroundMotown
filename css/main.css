@@ -1,8 +1,8 @@
 /*bs has built in colors. here is where we change the colors and fonts so it is set for the pages*/
 :root {
-   --primary-color:#1837a1;
-   --primary-color-highlight:#324413;
-   --bs-body-bg: #97C5B8;
+   --primary-color:white;
+   --primary-color-highlight: ;
+   --bs-body-bg: #FEFDFA;
    font-family: 'Monoton', sans-serif;
 }
 .head h1 {
@@ -18,8 +18,6 @@
     padding:10px;
 }
 .paragraph {
-    font-family: ;
-    color:#1a1a14;
     font-style: normal;
     font-size: large;
 }
