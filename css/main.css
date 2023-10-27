@@ -20,8 +20,7 @@
 .paragraph {
     font-style: normal;
     font-size: large;
+	background-color: lightblue;
+}
 }
 
-.body {
-background-color: lightblue;
-}
