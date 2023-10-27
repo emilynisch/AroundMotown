@@ -1,18 +1,19 @@
-﻿Around Motown – Emily, Angélica, Morgan
+Around Motown – Emily, Angélica, Morgan
 
 
   
 
 
 
-Title:
-Around Motown
+Title: Around Motown
 
 
 Project Description:
 
 
 The goal of this project is to create avenues of public engagement with Motown Museum collections. Currently, the Motown Museum website does not have a page to display digitizations of their collections. In an effort to help more people engage with Motown collections we will 1) create a page on the current website to host curated audio and digital collections, and 2) create QR code decals that can be placed around the city so that Detroit visitors and locals who are unfamiliar with Motown collections can digitally encounter them as they walk around Detroit. 
+
+
 
 
 Deliverables/Outcomes:
@@ -23,25 +24,43 @@ Deliverables/Outcomes:
 3. An instructional booklet for using the QR code system and instructions for the maintenance of the project.
 
 
-Functionality & Technology
+
+
+Functionality & Technology: 
+
 This project will have logo-ed QR codes decaled around the city of Detroit. When the user scans the QR code, it will take them to a landing page. The collections page will be accessible to website visitors, but each QR code will take the user to a specific digitized item page, with audio, visual, text content that meet accessibility requirements. The specific page users will see is a unique item in the Motown collection, all of which are hosted together on the collections page on the Motown Website. Each individual QR code will link to a specific page of information that will also include a link to the Motown Musuem’s digital collection site. The content will be stored on a server maintained by the museum. The technical and functional aspects of the application will align with Motown Museum goals of improving access to the Museum's resources, including collections, to users and visitors with disabilities. 
 
 
-Audience:
-Detroit visitors and locals, and website visitors.
 
 
-Data, Information, Content 
+Data, Information, Content:
+
 Data is being drawn directly from Motown Museum collections. Specifically, audio, images, and text summaries.
 
 
-Environmental Scan :
+
+Environmental Scan:
+
 Mapping Motown: The Sites Sacred To the Sound – Mapping Motown is a website that shows Detroit's Motown hidden landmarks related to music and the artists of that time. The locations are highlighted on a Google map with accompanied information to promote travel.
 Motortown Revue | Motown Museum | Home of Hitsville U.S.A. – Motortown Revue (Motown Mile Experience) is a virtual exhibition from the Motown Museum that is designed to “educate, entertain, and inspire” through presenting an interactive mile-long Detroit Riverwalk map. When selecting a number on the map, it auto scrolls to pieces of a narrative of the Motortown Revue and the concert experience, accompanied by specific Motortown Tracks. 
 
 
 
+Community: 
 
-Partners
-Our focus is working with Motown Museum and sustaining any of the Museum's existing institutional partnerships. 
-Additional institutional partners include businesses, non-profit organizations, and other social and cultural institutions that allow the Around Motown posters containing the QR Code and logo, to be hung in their establishments.
+On this page you'll find information about our project collaborators, intended audience, and community partners. 
+
+Audience - Detroit visitors and locals (the ones who stayed), and website visitors.
+
+Partners- Our focus is working with Motown Museum and sustaining any of the Museum's existing institutional partnerships. Additional possible institutional partners include local longtime Detroit businesses (the ones who stayed), non-profit organizations, and other social and cultural institutions that want to display the Around Motown posters with the project QR Code and logo at their place of business. 
+
+
+
+About Us: 
+
+Morgan's Bio - 
+
+Emily's Bio - 
+
+Angelica's Bio - 
+
